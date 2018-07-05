@@ -19,6 +19,8 @@
   .quote {
     cursor: pointer;
   }
+
+
   .quote:hover {
     background-color: #ffe2e2;
   }
